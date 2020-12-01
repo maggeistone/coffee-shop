@@ -1,0 +1,43 @@
+.CustomerView {
+    background-color: burlywood;
+    box-sizing: border-box;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+h2 {
+    color: white;
+}
+
+.menu {
+
+}
+
+.currentOrder {
+
+}
+
+ul {
+    list-style-type: none;
+    padding-inline-start: 0px;
+}
+
+.productLink {
+    background-color: white;
+    padding: 10px;
+    margin: 5px 0px;
+}
+
+.productInCart {
+    background-color: white;
+    padding: 10px;
+    margin: 5px 0px;
+}
+
+.productImage {
+    width: 100%;
+}
+
+.productInfo {
+    text-align: left;
+}

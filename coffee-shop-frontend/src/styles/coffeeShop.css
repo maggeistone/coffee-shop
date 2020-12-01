@@ -1,0 +1,10 @@
+.App {
+    background-color: #36190d;
+    min-height: 100vh;
+}
+
+h1 {
+    box-sizing: border-box;
+    margin: 0px;
+}
+

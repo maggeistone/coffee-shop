@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../wegetaway-frontend/.idea/coffee-shop.iml" filepath="$PROJECT_DIR$/../wegetaway-frontend/.idea/coffee-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../coffee-shop-backend/.idea/coffee-shop-backend.iml" filepath="$PROJECT_DIR$/../coffee-shop-backend/.idea/coffee-shop-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../coffeeShop/.idea/coffeeShop.iml" filepath="$PROJECT_DIR$/../coffeeShop/.idea/coffeeShop.iml" />
+    </modules>
+  </component>
+</project>

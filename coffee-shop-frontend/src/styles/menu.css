@@ -1,0 +1,16 @@
+.menu {
+    width: 55%;
+    display: inline-block;
+}
+
+
+ul {
+    list-style-type: none;
+    padding-inline-start: 0px;
+}
+
+.productLink {
+    background-color: white;
+    padding: 10px;
+    margin: 5px 0px;
+}
