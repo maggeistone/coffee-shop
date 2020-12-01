@@ -6,6 +6,10 @@ Creator: Maggie Johnstone
 NSID: mnj567
 Student Number : 11198075
 
+## npm install
+
+This will bring in all the dependencies of the project, which are specified in the package.json file. The node_modules are not updated to prevent the bundle size from exploding in size.
+
 ## npm run start
 
 This command will get the backend running on localhost:8080

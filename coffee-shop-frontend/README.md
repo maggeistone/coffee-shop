@@ -6,18 +6,19 @@ NSID: mnj567
 Student Number: 11198075
 
 ## How to Run
+1. npm install - this will bring in all the dependencies of the project, which are specified in the package.json file. The node_modules are not updated to prevent the bundle size from exploding in size.
 1. npm run start
-2. in the browser, enter the username: "m" and password: "m" for customer or employee *These credentials will work for both
-3. go into the employee view first, and add products.
+1. in the browser, enter the username: "m" and password: "m" for customer or employee *These credentials will work for both
+1. go into the employee view first, and add products.
     Employee
     1. enter a name and description of a product at the coffee shop
-    2. click 'create product'
-4. go into the customer view and add orders
+    1. click 'create product'
+1. go into the customer view and add orders
     Customer: 
     1. click "add to cart" after modifying the specifics if wanted
-    2. click 'submit' on your current order
-    3. refresh the page to 
-4. go back to the employee page to see the orders that you created as a customer
+    1. click 'submit' on your current order
+    1. refresh the page to 
+1. go back to the employee page to see the orders that you created as a customer
 
 ## Available Scripts
 
