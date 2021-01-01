@@ -3,8 +3,6 @@
 Class: CMPT 353
 Project: Final Project
 Creator: Maggie Johnstone
-NSID: mnj567
-Student Number : 11198075
 
 ## npm install
 
