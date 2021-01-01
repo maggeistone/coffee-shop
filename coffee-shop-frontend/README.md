@@ -2,8 +2,6 @@
 Class: CMPT 353
 Project: Final Project
 Creator: Maggie Johnstone
-NSID: mnj567
-Student Number: 11198075
 
 ## How to Run
 1. npm install - this will bring in all the dependencies of the project, which are specified in the package.json file. The node_modules are not updated to prevent the bundle size from exploding in size.
